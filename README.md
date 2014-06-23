@@ -1,9 +1,10 @@
 MacAssistant RT Issue Tracker
 ======================
 
-Please report your bug in the Issues section in this repository.
+*Please report your bug in the Issues section in this repository.*
 
-MacAssistant RT is a scout utility / real time editor application for Football Manager and OS X 10.7+
+
+**MacAssistant RT is a scout utility / real time editor application for Football Manager and OS X 10.7+**
 
 **News 19/06/2014:**
 I have already started work on MacAssistant RT15 which will also be a big update for the 2014 edition. You can see screenshots and give feedback on MacAssistant's Facebook page! It is going to be a massive update unlike any one you've seen so far! Some cool new features will include shortlist editing/importing/exporting, Club kit & colour editing and so much more! Go to MacAssistant RT's facebook page to find out all about the new features and also request what you'd like to see in the new version!
